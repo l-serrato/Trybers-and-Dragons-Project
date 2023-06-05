@@ -5,4 +5,4 @@ export default class Dragon extends Monster {
     super();
     super._lifePoints = 999;
   }
-}
+}// 
